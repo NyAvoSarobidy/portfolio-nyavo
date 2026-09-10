@@ -11,7 +11,7 @@ export const profile = {
   },
 
   about:
-    "Ingénieur ML / AI Engineer spécialisé dans la conception de solutions IA de bout en bout, du traitement des données au déploiement et monitoring des modèles sur Google Cloud. Expérience en développement Full Stack avec Next.js, React, Symfony et FastAPI, ainsi qu'en MLOps et automatisation IA.",
+    "Développeur Full Stack spécialisé dans la conception et le développement d’applications web modernes, performantes et évolutives. Expérience avec Next.js, React, Node.js, Symfony , FastAPI, .NET Framework,  de la conception des interfaces au développement des API et à l’intégration des bases de données. Également compétent en IA, Machine Learning, MLOps et automatisation, avec une expérience sur Google Cloud.",
 
   experiences: [
     {
