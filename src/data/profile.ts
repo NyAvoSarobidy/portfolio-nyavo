@@ -18,7 +18,7 @@ export const profile = {
       company: "Clearmind-Analytics",
       location: "Antananarivo",
       role: "ML Engineer / Full-Stack Developer",
-      period: "juil. 2025 → aujourd'hui",
+      period: "juil. 2025 → Sept. 2026",
       highlights: [
         "Conception d'une demo publique d'intelligence decisionnelle appliquee au secteur pharmaceutique.",
         "Systeme d'intelligence decisionnelle de bout en bout pour la gestion des stocks (descriptif, predictif, prescriptif), aligne avec le concept de jumeau numerique d'entreprise.",
@@ -33,7 +33,7 @@ export const profile = {
       company: "Clearmind-Analytics - AthenaEvent",
       location: "Antananarivo",
       role: "Developpeur Front-End",
-      period: "aout 2025 → aujourd'hui",
+      period: "aout 2025 → Sept. 2026",
       highlights: [
         "Plateforme de billetterie et d'analytics : gestion des evenements, inscriptions, presence et scoring des leads.",
         "Vitrine B2B : integration pixel-perfect, UX/UI, responsive, SEO.",
