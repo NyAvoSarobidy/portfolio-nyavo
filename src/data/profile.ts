@@ -2,7 +2,7 @@ export const profile = {
   identity: {
     name: "Ny Avo Sarobidy Andriatsilavo",
     title: "Full-Stack Developer | AI & Machine Learning Engineer",
-    location: "Tsimbazaza, Antananarivo, Madagascar",
+    location: "Ambohipotsy La haute Ville Antananarivo Madagascar, 101 Antananarivo",
     email: "nyavoandriatsilavo@gmail.com",
     phone: "+261 34 57 497 76",
     linkedin: "https://linkedin.com/in/nyavosarobidy",
@@ -11,7 +11,7 @@ export const profile = {
   },
 
   about:
-    "Développeur Full Stack spécialisé dans la conception et le développement d’applications web modernes, performantes et évolutives. Expérience avec Next.js, React, Node.js, Symfony , FastAPI, .NET Framework,  de la conception des interfaces au développement des API et à l’intégration des bases de données. Également compétent en IA, Machine Learning, MLOps et automatisation, avec une expérience sur Google Cloud.",
+    "Développeur Full Stack spécialisé dans la conception et le développement d’applications web modernes, performantes et évolutives. Expérience avec Next.js, React, Node.js, Symfony , FastAPI, .NET Framework, Spring Boot, de la conception des interfaces au développement des API et à l’intégration des bases de données. Également compétent en IA, Machine Learning, MLOps et automatisation, avec une expérience sur Google Cloud.",
 
   experiences: [
     {
@@ -20,20 +20,20 @@ export const profile = {
       role: "ML Engineer / Full-Stack Developer",
       period: "juil. 2025 → Sept. 2026",
       highlights: [
-        "Conception d'une demo publique d'intelligence decisionnelle appliquee au secteur pharmaceutique.",
+        "Conception d'une démo publique d'intelligence décisionnelle appliquée au secteur pharmaceutique.",
+        "Stack technique : Next.js, TypeScript, Python, FastAPI",
+        "Data & Machine Learning : NumPy, Pandas, Scikit-learn et outils de prétraitement et d'analyse des données.",
         "Systeme d'intelligence decisionnelle de bout en bout pour la gestion des stocks (descriptif, predictif, prescriptif), aligne avec le concept de jumeau numerique d'entreprise.",
-        "Pipeline ML complet sur GCP : ingestion/transformation via BigQuery, entrainement et gestion des modeles avec Vertex AI et AutoML, monitoring en production avec detection de data drift et model drift.",
-        "Application des competences visees par la certification Google Cloud Professional Machine Learning Engineer.",
       ],
       links: [
         { label: "Demo Supply Chain", url: "https://supply-chain.clearmind-analytics.com" },
       ],
     },
     {
-      company: "Clearmind-Analytics - AthenaEvent",
+      company: "Clearmind-Analytics",
       location: "Antananarivo",
       role: "Developpeur Front-End",
-      period: "aout 2025 → Sept. 2026",
+      period: "juil. 2025 → Sept. 2026",
       highlights: [
         "Plateforme de billetterie et d'analytics : gestion des evenements, inscriptions, presence et scoring des leads.",
         "Vitrine B2B : integration pixel-perfect, UX/UI, responsive, SEO.",
@@ -51,7 +51,9 @@ export const profile = {
       role: "Developpeur Front-End (Next.js)",
       period: "fevr. 2025 → aout 2025",
       highlights: [
-        "Creation du site du cabinet et maintenance continue.",
+        "Conception et développement du site web du cabinet OrthoSto avec Next.js et Node.js.",
+        "Déploiement et mise en production du site sur l'hébergement OVHcloud.",
+        "Maintenance évolutive et corrective du site web, intégration de nouvelles fonctionnalités et optimisation des performances.",
       ],
       links: [
         { label: "www.orthosto.com", url: "https://www.orthosto.com" },
@@ -94,7 +96,7 @@ export const profile = {
   skills: [
     {
       category: "Machine Learning & IA",
-      items: ["Scikit-learn", "MLOps", "XGBoost", "Pandas", "Feature engineering"],
+      items: ["Scikit-learn", "MLOps", "XGBoost", "numpy", "Pandas", "Feature engineering"],
     },
     {
       category: "Donnees & DevOps",
@@ -105,12 +107,12 @@ export const profile = {
       items: ["LLMs", "AI Agents", "Claude Code", "Hermes", "n8n"],
     },
     {
-      category: "Developpement Full-Stack",
-      items: ["Next.js", "Node.js", "Django", "Symfony 6.0", ".NET Framework"],
+      category: "Développement",
+      items: ["React / Next.js", "Node.js", "FastAPI", "TypeScript / JavaScript", "C# / .NET", "APIs REST", "PHP / Symfony 6.0", "Java Spring Boot"],
     },
     {
       category: "Google Cloud Platform",
-      items: ["BigQuery", "Vertex AI", "AutoML"],
+      items: ["BigQuery", " Cloud Storage", "Cloud Run", "Cloud Function", "Vertex AI", "AutoML"],
     },
     {
       category: "Langages",
@@ -172,7 +174,7 @@ export const profile = {
       description:
         "Assistant de recherche documentaire base sur une architecture RAG avec LangChain.",
       tags: ["LangChain", "RAG", "Streamlit"],
-      
+
       image: "/images/rag.png",
     },
   ],
@@ -183,6 +185,11 @@ export const profile = {
       institution: "MTTC, Antananarivo",
       period: "nov. 2025 → avr. 2026",
       detail: "Niveau B2",
+    },
+    {
+      degree: "Master II Informatique – Base de Données et Génie Logiciel",
+      institution: "CNTEMAD Madagascar, Antananarivo",
+      period: "sept. 2026 - ce jour",
     },
     {
       degree: "Master I Informatique – Developpement d'Applications",
